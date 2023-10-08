@@ -11,8 +11,10 @@ This Python application runs an operation on the number after receiving the user
 3. Enter your name when prompted.
 4. Enter a number when prompted.
 5. The program will calculate the square of the entered number and display the result along with a personalized greeting.
+6. The program will output the name with each character multiplied by each char
+7. The program now has simple error-checking code
 
 ## Group Members
 
 - Member 1: Dheyab Alshehhi
-- Member 2: Hayden
+- Member 2: Hayden Goughenour-Hughes
