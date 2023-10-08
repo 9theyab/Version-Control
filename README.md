@@ -15,3 +15,4 @@ This Python application runs an operation on the number after receiving the user
 ## Group Members
 
 - Member 1: Dheyab Alshehhi
+- Member 2: Hayden
